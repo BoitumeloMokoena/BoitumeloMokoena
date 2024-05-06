@@ -24,7 +24,7 @@ I am a young woman starting off her career in the dynamic world of technology, a
 
 🔍 🖥️  I'm always exploring new technologies and methodologies to enhance my development skills. From front-end frameworks to back-end solutions, I enjoy diving into different aspects of software engineering to broaden my expertise.
 
-Let's Connect!
+# Let's Connect!
 
 🔗 LinkedIn: www.linkedin.com/in/boitumelo-mokoena-1a8065240
 
