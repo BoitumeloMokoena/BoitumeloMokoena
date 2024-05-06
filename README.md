@@ -1,4 +1,4 @@
-# I'm Boitumelo Mokoena 🎀
+# Boitumelo Mokoena 🎀
 
 📱 Mobile Application Developer | Flutter & Dart Enthusiast
 
